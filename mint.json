@@ -34,12 +34,12 @@
   "anchors": [
     {
       "name": "Discord",
-      "icon": "book-open-cover",
+      "icon": "discord",
       "url": "https://discord.mc-1st.ro"
     },
     {
       "name": "Store",
-      "icon": "slack",
+      "icon": "cart",
       "url": "https://store.mc-1st.ro"
     }
   ],
@@ -47,36 +47,19 @@
     {
       "group": "Get Started",
       "pages": [
-        "home",
-        "general-information-en"
+        "introduction"
       ]
     },
     {
       "group": "Essentials",
       "pages": [
         "informatii-generale-ro/global",
-        "regulament-ro/chat",
-        "regulament-ro/gameplay",
-        "regulament-ro/regulament-donatori",
-        "regulament-ro/scam-and-comert",
-        "rules-en/chat",
-        "rules-en/donor-rules",
-        "rules-en/gameplay",
-        "rules-en/scam-and-trades"
       ]
     },
     {
       "group": "API Documentation",
       "pages": [
         "api-reference/introduction"
-      ]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
       ]
     }
   ],
