@@ -1,69 +1,69 @@
 {
-  "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
-  "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
-  },
-  "favicon": "/favicon.svg",
-  "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
-    "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
-    }
-  },
-  "topbarLinks": [
-    {
-      "name": "Support",
-      "url": "mailto:support@mc-1st.ro"
-    }
-  ],
-  "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
-  },
-  "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
-  ],
-  "anchors": [
-    {
-      "name": "Discord",
-      "icon": "discord",
-      "url": "https://discord.mc-1st.ro"
+    "$schema": "https://mintlify.com/schema.json",
+    "name": "Starter Kit",
+    "logo": {
+        "dark": "/logo/dark.svg",
+        "light": "/logo/light.svg"
     },
-    {
-      "name": "Store",
-      "icon": "cart",
-      "url": "https://store.mc-1st.ro"
-    }
-  ],
-  "navigation": [
-    {
-      "group": "Get Started",
-      "pages": [
-        "introduction"
-      ]
+    "favicon": "/favicon.svg",
+    "colors": {
+        "primary": "#0D9373",
+        "light": "#07C983",
+        "dark": "#0D9373",
+        "anchors": {
+            "from": "#0D9373",
+            "to": "#07C983"
+        }
     },
-    {
-      "group": "Essentials",
-      "pages": [
-        "informatii-generale-ro/global",
-      ]
+    "topbarLinks": [
+        {
+            "name": "Support",
+            "url": "mailto:support@mc-1st.ro"
+        }
+    ],
+    "topbarCtaButton": {
+        "name": "Dashboard",
+        "url": "https://dashboard.mintlify.com"
     },
-    {
-      "group": "API Documentation",
-      "pages": [
-        "api-reference/introduction"
-      ]
+    "tabs": [
+        {
+            "name": "API Reference",
+            "url": "api-reference"
+        }
+    ],
+    "anchors": [
+        {
+            "name": "Discord",
+            "icon": "discord",
+            "url": "https://discord.mc-1st.ro"
+        },
+        {
+            "name": "Store",
+            "icon": "cart",
+            "url": "https://store.mc-1st.ro"
+        }
+    ],
+    "navigation": [
+        {
+            "group": "Get Started",
+            "pages": [
+                "introduction"
+            ]
+        },
+        {
+            "group": "Essentials",
+            "pages": [
+                "informatii-generale-ro/global"
+            ]
+        },
+        {
+            "group": "API Documentation",
+            "pages": [
+                "api-reference/introduction"
+            ]
+        }
+    ],
+    "footerSocials": {
+        "github": "https://github.com/padrewin"
     }
-  ],
-  "footerSocials": {
-    "github": "https://github.com/padrewin"
-  }
 }
