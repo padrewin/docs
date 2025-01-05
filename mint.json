@@ -39,7 +39,7 @@
         },
         {
             "name": "Store",
-            "icon": "cart",
+            "icon": "home",
             "url": "https://store.mc-1st.ro"
         }
     ],
@@ -54,12 +54,6 @@
             "group": "Essentials",
             "pages": [
                 "informatii-generale-ro/global"
-            ]
-        },
-        {
-            "group": "API Documentation",
-            "pages": [
-                "api-reference/introduction"
             ]
         }
     ],
