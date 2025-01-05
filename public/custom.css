@@ -1,5 +1,20 @@
-img.inline-icon {
+/* Stil pentru săgeți inline */
+.inline-icon {
     display: inline;
     vertical-align: middle;
     margin-right: 8px;
+}
+
+/* Reducerea spațiului dintre paragrafe */
+p {
+    margin: 0;
+    padding: 0;
+    line-height: 1.5; /* Poți ajusta valoarea în funcție de preferințe */
+}
+
+/* Ajustare generală pentru marginile dintre elemente */
+img + p,
+img + strong {
+    margin-top: 0.2rem;
+    margin-bottom: 0.2rem;
 }
