@@ -57,7 +57,7 @@
             ]
         }
     ],
-    "styles": ["/custom.css"],  // Adaugă acest rând pentru a include fișierul CSS personalizat
+    "styles": ["/custom.css"],
     "footerSocials": {
         "github": "https://github.com/padrewin"
     }
