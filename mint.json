@@ -47,8 +47,19 @@
         {
             "group": "Get Started",
             "pages": [
-                "introduction",
-                "regulament-chat"
+                {
+                    "name": "Informatii [RO]",
+                    "url": "introduction"
+                },
+                {
+                    "group": "Regulament",
+                    "pages": [
+                        {
+                            "name": "Chat [RO]",
+                            "url": "regulament-chat"
+                        }
+                    ]
+                }
             ]
         },
         {
