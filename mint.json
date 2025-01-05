@@ -33,37 +33,36 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Discord",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://discord.mc-1st.ro"
     },
     {
-      "name": "Community",
+      "name": "Store",
       "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://store.mc-1st.ro"
     }
   ],
   "navigation": [
     {
       "group": "Get Started",
       "pages": [
-        "test"
+        "home",
+        "general-information-en"
       ]
     },
     {
       "group": "Essentials",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "informatii-generale-ro/global",
+        "regulament-ro/chat",
+        "regulament-ro/gameplay",
+        "regulament-ro/regulament-donatori",
+        "regulament-ro/scam-and-comert",
+        "rules-en/chat",
+        "rules-en/donor-rules",
+        "rules-en/gameplay",
+        "rules-en/scam-and-trades"
       ]
     },
     {
@@ -82,8 +81,6 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://linkedin.com/company/mintlify"
+    "github": "https://github.com/padrewin"
   }
 }
