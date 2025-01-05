@@ -1,8 +1,10 @@
 /* Stil pentru săgeți inline */
 .inline-icon {
-    display: inline;
+    height: 16px;
     vertical-align: middle;
-    margin-right: 8px;
+    margin-right: 4px;
+    display: inline-block;
+    line-height: 1; /* Ajustează spațiul vertical */
 }
 
 /* Reducerea spațiului dintre paragrafe */
