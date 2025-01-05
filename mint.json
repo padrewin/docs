@@ -55,15 +55,11 @@
                     ]
                 }
             ]
-        },
-        {
-            "group": "Essentials",
-            "pages": [
-                "introduction"
-            ]
         }
     ],
-    "styles": ["/custom.css"],
+    "styles": [
+        "/custom.css"
+    ],
     "footerSocials": {
         "github": "https://github.com/padrewin"
     }
