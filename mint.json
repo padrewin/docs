@@ -53,10 +53,11 @@
         {
             "group": "Essentials",
             "pages": [
-                "informatii-generale-ro/global"
+                "introduction"
             ]
         }
     ],
+    "styles": ["/custom.css"],  // Adaugă acest rând pentru a include fișierul CSS personalizat
     "footerSocials": {
         "github": "https://github.com/padrewin"
     }
