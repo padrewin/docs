@@ -51,7 +51,8 @@
                 {
                     "group": "Regulament",
                     "pages": [
-                        "regulament-chat"
+                        "regulament-chat",
+                        "regulament-gameplay"
                     ]
                 }
             ]
